@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 marks=[]
@@ -11,7 +7,7 @@ marks.sort()
 print(marks)  
 
 
-# In[ ]:
+
 
 
 
