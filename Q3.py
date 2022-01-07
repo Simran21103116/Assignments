@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 SID=input("Enter your SID : ")
@@ -13,7 +9,7 @@ STUDENT=[SID,Name,Gender,Course_name,CGPA]
 print(STUDENT)
 
 
-# In[ ]:
+
 
 
 
